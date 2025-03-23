@@ -8,7 +8,7 @@
 
 <!-- Logo -->
 <a href="https://github.com/franckferman/GhostInTheKernel">
-  <img src="https://raw.githubusercontent.com/franckferman/GhostInTheKernel/refs/heads/stable/docs/github/graphical_resources/Logo-GhostInTheKernel.png" alt="GhostInTheKernel Logo" width="auto" height="auto">
+  <img src="https://raw.githubusercontent.com/franckferman/GhostInTheKernel/refs/heads/main/docs/github/graphical_resources/Logo-GhostInTheKernel.png" alt="GhostInTheKernel Logo" width="auto" height="auto">
 </a>
 
 <!-- Title & Tagline -->
